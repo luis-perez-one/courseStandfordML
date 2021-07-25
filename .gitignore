@@ -131,9 +131,8 @@ $RECYCLE.BIN/
 
 
 # folders
-!notes
-*/notes
+**notes
 
 # files
-*/mytoken
-*/myCourseraPWD
+**mytoken
+**myCourseraPWD
