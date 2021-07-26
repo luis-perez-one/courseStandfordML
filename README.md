@@ -22,4 +22,4 @@ The course imposes the use of octave / Matlab. Moreover, there are severe restri
 
 Additionally, the nature of Matlab and Octave themselves contribute to this disaster. (e.g., each function must be in a separate file)
 
-**Hence, I recognize that the \*Octave code is a mess!\*. Although most of it works - because I have to submit the exercises - it's far from being a piece of art. I'm almost embarrassed about it.** 
+**Hence, I recognize that the \*Octave code is a mess!\*. Although it works - because I have to submit the exercises - it's far from being a piece of art. I'm almost embarrassed about it.** 
